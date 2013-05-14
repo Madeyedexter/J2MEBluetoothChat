@@ -32,5 +32,5 @@ Till then
 Get the most out of it!
 
 @Authors
-Mohsin Shiraz
+Mohsin Shiraz/
 Danish Kamaal
